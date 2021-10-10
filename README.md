@@ -1,4 +1,4 @@
-# Assignment: Open Data TEST
+# Assignment: Open Data
 
 Visual represntation of data reveived from 4 different sensors during the day, along with past data.
 
