@@ -19,7 +19,7 @@ const Header = ({ handleDate, selectedDate }) => {
   return (
     <div className='header'>
       <label>
-        Select the time:
+        Choose the time:
         <select
           className='header_select'
           value={selectedDate}
